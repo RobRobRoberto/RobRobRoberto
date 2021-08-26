@@ -1,7 +1,8 @@
-### Hallo zusammen, mein Name isr Robert✌️
+### Hallo zusammen, mein Name ist Robert✌️
 
 
-- 🚀Ich fange gerade mit dem coden an.
+
+- 🎓 Student bei neueFische Bootcamp
 
 
 ### Tech Stack
@@ -11,6 +12,8 @@
 [<img align="left" alt="React" width="26px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png" />]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+
+- 🚀 Gettin´ started
 
 
 
