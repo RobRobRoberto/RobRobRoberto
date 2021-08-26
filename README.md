@@ -1,10 +1,10 @@
-### Hi there, I´m Robert✌️
+### Hallo zusammen, mein Name isr Robert✌️
 
 
-- 🚀I’m currently getting started.
+- 🚀Ich fange gerade mit dem coden an.
 
 
-### Languages and Tools
+### Tech Stack
 
 [<img align="left" alt="React" width="26px" src="https://mpng.subpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" />]
 
