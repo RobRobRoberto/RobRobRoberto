@@ -1,7 +1,7 @@
 ## Servus alle Miteinander✌️
 
 
-- 🎓 Student bei neueFische Bootcamp
+- 🎓 Student an der Otto von Guericke Universität in Magdeburg
 
 - 🚀 Gettin´ started
 
